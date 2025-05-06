@@ -1,0 +1,16 @@
+PODS:
+  - i18next (1.0.1)
+
+DEPENDENCIES:
+  - i18next
+
+SPEC REPOS:
+  trunk:
+    - i18next
+
+SPEC CHECKSUMS:
+  i18next: 5f3d8974d14e145edd8d735057ac33c7ee3ec184
+
+PODFILE CHECKSUM: 609b6c871d09633b78fc30d33ef27a1b67fa8b5d
+
+COCOAPODS: 1.16.2
